@@ -8,6 +8,7 @@ packages = [{include = "web_modul2"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+datetime = "^5.1"
 
 
 [build-system]
